@@ -19,3 +19,11 @@
 **Thoughts**: I really struggled with CSS (funny though I didn't have to change this) , but, overall, I feel like I am slowly getting better at it.
 
 **Link(s) to work**: [Birthday App](https://github.com/surajsurajsuraj/birthday-app/tree/db54a6b098ecc33ae33a6133f4e859f1afd9d18c)
+
+### Day 1: January 04, 2021
+
+**Today's Progress**: Added CSS to Birthday App and minor js refactoring, will continue with my reactjs lessons.
+
+**Thoughts**: I am now understanding how css works after applying grid and flexbox layout. But a lot of time it feels like hit and trial. It needs some practice.
+
+**Link(s) to work**: [Birthday App](https://github.com/surajsurajsuraj/birthday-app/tree/db54a6b098ecc33ae33a6133f4e859f1afd9d18c)
