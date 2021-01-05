@@ -27,3 +27,11 @@
 **Thoughts**: I am now understanding how css works after applying grid and flexbox layout. But a lot of time it feels like hit and trial. It needs some practice.
 
 **Link(s) to work**: [Birthday App](https://github.com/surajsurajsuraj/birthday-app/tree/db54a6b098ecc33ae33a6133f4e859f1afd9d18c)
+
+### Day 2: January 05, 2021
+
+**Today's Progress**: Continued my ReactJs lessons on freeCodeCamp on useEffect React hooks.
+
+**Thoughts** There is a lot going on under the hood in useEffect, I needed to make sure that I get a clarity on when it is re rendering and its use.
+
+
