@@ -34,4 +34,12 @@
 
 **Thoughts** There is a lot going on under the hood in useEffect, I needed to make sure that I get a clarity on when it is re rendering and its use.
 
+### Day 3: January 06, 2021
+
+**Today's Progress**: Implemented useEffect hook using fetch api and learnt about multiple returns and short-circuit evaluations
+
+**Thoughts**: UseEffect is an important topic with cleanup being important in it but overall it's worth revising.
+
+**Link(s) to work**: [UseEffect Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useEffect/my-app)
+
 
