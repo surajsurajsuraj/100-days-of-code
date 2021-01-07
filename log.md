@@ -42,4 +42,12 @@
 
 **Link(s) to work**: [UseEffect Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useEffect/my-app)
 
+### Day 4: January 07, 2021
+
+**Today's Progress**: Implemented forms in react
+
+**Thoughts**: Interesting exercise, Struggled a bit in CSS while centering buttons.
+
+**Link(s) to work**: [form Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/Form-exercise/my-app)
+
 
