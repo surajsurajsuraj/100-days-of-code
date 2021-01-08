@@ -50,4 +50,14 @@
 
 **Link(s) to work**: [form Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/Form-exercise/my-app)
 
+### Day 5: January 08, 2021
+
+**Today's Progress**: Implemented useReducer hook
+
+**Thoughts**: I find it more complex than useState. Need some more practice to understand this fully.
+
+**Link(s) to work**: [useReducer Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useReducer/my-app)
+
+
+
 
