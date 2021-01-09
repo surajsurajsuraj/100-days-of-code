@@ -48,7 +48,7 @@
 
 **Thoughts**: Interesting exercise, Struggled a bit in CSS while centering buttons.
 
-**Link(s) to work**: [form Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/Form-exercise/my-app)
+**Link(s) to work**: [form Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/Form-exercise/my-app) **commit**: e51045d51434eda1047eb1b0f39911f87e1fdc65
 
 ### Day 5: January 08, 2021
 
@@ -56,7 +56,15 @@
 
 **Thoughts**: I find it more complex than useState. Need some more practice to understand this fully.
 
-**Link(s) to work**: [useReducer Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useReducer/my-app)
+**Link(s) to work**: [useReducer Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useReducer/my-app) 
+
+### Day 6: January 09, 2021
+
+**Today's Progress**: Implemented useReducer hook on jan 7th form exercise and completed useReducer topic
+
+**Thoughts**: I find it more complex than useState. Need some more practice to understand this fully. But I am gaining confidence in this.
+
+**Link(s) to work**: [form Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/Form-exercise/my-app) **commit**: 10e88b07b7ca381fc53f76c240fd76bbdcf5f08b
 
 
 
