@@ -66,6 +66,13 @@
 
 **Link(s) to work**: [form Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/Form-exercise/my-app) **commit**: 10e88b07b7ca381fc53f76c240fd76bbdcf5f08b
 
+### Day 7: January 11, 2021
+
+**Today's Progress**: Implemented useContext hook
+
+**Thoughts**: It was complex too but interesting.
+
+**Link(s) to work**: [useContext Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useContext) 
 
 
 
