@@ -74,5 +74,13 @@
 
 **Link(s) to work**: [useContext Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/useContext) 
 
+### Day 8: January 12, 2021
+
+**Today's Progress**: Implemented useFetch (custom hook)
+
+**Thoughts**: It seems much like a simple function call but will dig a little deeper find the differences, overall it seems easy
+
+**Link(s) to work**: [custom hook Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/custom-hook) 
+
 
 
