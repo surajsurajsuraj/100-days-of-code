@@ -80,7 +80,16 @@
 
 **Thoughts**: It seems much like a simple function call but will dig a little deeper find the differences, overall it seems easy
 
-**Link(s) to work**: [custom hook Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/custom-hook) 
+**Link(s) to work**: [custom hook Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/custom-hook)  **commit**: 91ecb89c11cacd460ac18d46bd9821d0ab4e7e16
+
+
+### Day 9: January 13, 2021
+
+**Today's Progress**: Learnt and implemented PropType on yesterday's project only. Also added CSS today only.
+
+**Thoughts**: Helpful in handling missing values and can be used in testing too.
+
+**Link(s) to work**: [PropType Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/custom-hook)  **commit**: 2d129e0ffca9d0f375a3ef93fcd46b091000001f
 
 
 
