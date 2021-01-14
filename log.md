@@ -92,4 +92,13 @@
 **Link(s) to work**: [PropType Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/custom-hook)  **commit**: 2d129e0ffca9d0f375a3ef93fcd46b091000001f
 
 
+### Day 10: January 14, 2021
+
+**Today's Progress**: Learnt and implemented React router. 
+
+**Thoughts**: Routing is all done in react means front end only just a doubt to clear coz this also happens in node.js aka backend when to use what.
+
+**Link(s) to work**: [React Router Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/react-router)
+
+
 
