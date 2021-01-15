@@ -101,4 +101,14 @@
 **Link(s) to work**: [React Router Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/react-router)
 
 
+### Day 11: January 15, 2021
+
+**Today's Progress**: Learnt and implemented React optimization techniques. 
+
+**Thoughts**: Learnt about React memo, useCallback and useMemo.
+
+**Link(s) to work**: [React optimization Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/react-optimization)
+
+
+
 
