@@ -110,5 +110,11 @@
 **Link(s) to work**: [React optimization Exercise](https://github.com/surajsurajsuraj/Exercise/tree/main/react-optimization)
 
 
+### Day 12: January 16, 2021
 
+**Today's Progress**: I've gone through my project prerequisites and a python practice question on hackkerrank
+
+**Thoughts**: Got to learn about datetime library in python which makes it a lot easier to take interzonal difference in time.
+
+**Link(s) to work**: [Time Delta problem](https://www.hackerrank.com/challenges/python-time-delta/problem)
 
