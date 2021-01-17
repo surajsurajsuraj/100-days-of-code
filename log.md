@@ -118,3 +118,12 @@
 
 **Link(s) to work**: [Time Delta problem](https://www.hackerrank.com/challenges/python-time-delta/problem)
 
+
+### Day 13: January 17, 2021
+
+**Today's Progress**: I've gone through my project prerequisites and a python practice question on hackkerrank
+
+**Thoughts**: Well this question seems much complex at first but a very simpler solution came to my mind after an hour of thinking
+
+**Link(s) to work**: [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
+
