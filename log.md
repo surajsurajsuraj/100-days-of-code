@@ -127,3 +127,23 @@
 
 **Link(s) to work**: [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)
 
+
+### Day 14: January 18, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: I forgot to update this yesterday, my bad. But I did posted my progress on twitter. I did a mathematical programming problem.
+
+**Link(s) to work**: 
+  1. [Find Angle Problem](https://www.hackerrank.com/challenges/find-angle/problem)
+  2. [No-Idea Problem](https://www.hackerrank.com/challenges/no-idea/problem)
+
+
+### Day 15: January 19, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: This question is easier than expected.
+
+**Link(s) to work**: [Word-order](https://www.hackerrank.com/challenges/word-order/problem)
+
