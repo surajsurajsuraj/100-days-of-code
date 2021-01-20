@@ -147,3 +147,12 @@
 
 **Link(s) to work**: [Word-order](https://www.hackerrank.com/challenges/word-order/problem)
 
+
+### Day 16: January 20, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: This question is easier than expected.
+
+**Link(s) to work**: [Athelete sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)
+
