@@ -156,3 +156,14 @@
 
 **Link(s) to work**: [Athelete sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)
 
+
+### Day 17: January 21, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: code dubugging question was really tricky. The sorting question was easier
+
+**Link(s) to work**: 
+  1. [Default Argument problem](https://www.hackerrank.com/challenges/default-arguments/problem)
+  2. [ginortS Sorting problem](https://www.hackerrank.com/challenges/ginorts/problem)
+
