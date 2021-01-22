@@ -167,3 +167,12 @@
   1. [Default Argument problem](https://www.hackerrank.com/challenges/default-arguments/problem)
   2. [ginortS Sorting problem](https://www.hackerrank.com/challenges/ginorts/problem)
 
+
+
+### Day 18: January 22, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: Nice oops question. A revision on fundamentals with some python specific syntaxes.
+
+**Link(s) to work**: [Complex number using python class](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
