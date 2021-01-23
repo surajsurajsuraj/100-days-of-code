@@ -176,3 +176,14 @@
 **Thoughts**: Nice oops question. A revision on fundamentals with some python specific syntaxes.
 
 **Link(s) to work**: [Complex number using python class](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)
+
+
+### Day 19: January 23, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: sorting problem was good for learning built in syntaxes much better.
+
+**Link(s) to work**: 
+  1. [Piling up problem](https://www.hackerrank.com/challenges/piling-up/problem)
+  2. [Company logo problem](https://www.hackerrank.com/challenges/most-commons/problem)
