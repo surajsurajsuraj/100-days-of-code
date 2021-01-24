@@ -187,3 +187,12 @@
 **Link(s) to work**: 
   1. [Piling up problem](https://www.hackerrank.com/challenges/piling-up/problem)
   2. [Company logo problem](https://www.hackerrank.com/challenges/most-commons/problem)
+
+  
+### Day 20: January 24, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: Nice revision of regex concepts in python and learnt some new things. Still need to find out the difference between simple pattern and re.compile(pattern)
+
+**Link(s) to work**: [Compress the string](https://www.hackerrank.com/challenges/compress-the-string/problem)
