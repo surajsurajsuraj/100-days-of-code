@@ -196,3 +196,12 @@
 **Thoughts**: Nice revision of regex concepts in python and learnt some new things. Still need to find out the difference between simple pattern and re.compile(pattern)
 
 **Link(s) to work**: [Compress the string](https://www.hackerrank.com/challenges/compress-the-string/problem)
+
+
+### Day 21: January 25, 2021
+
+**Today's Progress**: python practice question on hackkerrank
+
+**Thoughts**: Itertools revision and a lot of other new learnings with precisions in python
+
+**Link(s) to work**: [Iterables and iterators problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
