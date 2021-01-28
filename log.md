@@ -207,7 +207,6 @@
 **Link(s) to work**: [Iterables and iterators problem](https://www.hackerrank.com/challenges/iterables-and-iterators/problem)
 
 
-
 ### Day 22: January 27, 2021
 
 **Today's Progress**: Hadoop and hive complete installation. Playing with hive databases
@@ -215,3 +214,12 @@
 **Thoughts**: Dealt with a ton of error while installation and also facing this error with loading 1 million data into tables.
 
 **Link(s) to work**: 
+
+
+### Day 23: January 28, 2021
+
+**Today's Progress**: Loaded successfully 100K movies data into hive database. Also solved python practice problem.
+
+**Thoughts**: Yesterday got the error due to maybe the parsing which incomptible data types.
+
+**Link(s) to work**: [Merge the tools problem](https://www.hackerrank.com/challenges/merge-the-tools/problem)
