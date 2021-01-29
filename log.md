@@ -223,3 +223,12 @@
 **Thoughts**: Yesterday got the error due to maybe the parsing which incomptible data types.
 
 **Link(s) to work**: [Merge the tools problem](https://www.hackerrank.com/challenges/merge-the-tools/problem)
+
+
+### Day 24: January 29, 2021
+
+**Today's Progress**: solved python practice problem hard category on hackerrank.
+
+**Thoughts**: Got error a lot of time nice question with a lot of corner cases. But finally solved it in half an hour.
+
+**Link(s) to work**: [Matrix Script problem](https://www.hackerrank.com/challenges/matrix-script/problem)
