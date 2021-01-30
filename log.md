@@ -232,3 +232,12 @@
 **Thoughts**: Got error a lot of time nice question with a lot of corner cases. But finally solved it in half an hour.
 
 **Link(s) to work**: [Matrix Script problem](https://www.hackerrank.com/challenges/matrix-script/problem)
+
+
+### Day 25: January 30, 2021
+
+**Today's Progress**: solved python practice problem hard category on hackerrank.
+
+**Thoughts**: nice question, learnt a new thing about matching overlapping substring through re.findall
+
+**Link(s) to work**: [Validating-postalcode](https://www.hackerrank.com/challenges/validating-postalcode/problem)
