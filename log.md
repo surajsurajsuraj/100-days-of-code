@@ -241,3 +241,12 @@
 **Thoughts**: nice question, learnt a new thing about matching overlapping substring through re.findall
 
 **Link(s) to work**: [Validating-postalcode](https://www.hackerrank.com/challenges/validating-postalcode/problem)
+
+
+### Day 26: January 31, 2021
+
+**Today's Progress**: ran complex hql commands on hive
+
+**Thoughts**: Got a lot of errors while grouping and its different from mysql. But finally completed my college assignment
+
+**Link(s) to work**:
