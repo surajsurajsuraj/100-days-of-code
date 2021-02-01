@@ -250,3 +250,12 @@
 **Thoughts**: Got a lot of errors while grouping and its different from mysql. But finally completed my college assignment
 
 **Link(s) to work**:
+
+
+### Day 27: February 01, 2021
+
+**Today's Progress**: Revised preprocessing of data in machine learning using Scikit-learn
+
+**Thoughts**: All the methods are now refreshed into mind. Getting ready for projects.
+
+**Link(s) to work**:
