@@ -259,3 +259,12 @@
 **Thoughts**: All the methods are now refreshed into mind. Getting ready for projects.
 
 **Link(s) to work**:
+
+
+### Day 28: February 02, 2021
+
+**Today's Progress**: First submission on kaggle but got an error.
+
+**Thoughts**: Everything seems fine. I dunno why I got the error. Let's see if I get any help then I will continue on kaggle else will move on with regular learnings.
+
+**Link(s) to work**:[kaggle question scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn/overview)
