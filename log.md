@@ -268,3 +268,14 @@
 **Thoughts**: Everything seems fine. I dunno why I got the error. Let's see if I get any help then I will continue on kaggle else will move on with regular learnings.
 
 **Link(s) to work**:[kaggle question scikit-learn](https://www.kaggle.com/c/data-science-london-scikit-learn/overview)
+
+
+### Day 29: February 03, 2021
+
+**Today's Progress**: Did 2 successful submission on kaggle.
+
+**Thoughts**: Struggled a lot while deciding whether to pass a Dataframe or numpy to preprocessing using sklearn.
+
+**Link(s) to work**:
+  1. [kaggle question london](https://www.kaggle.com/c/data-science-london-scikit-learn/overview)
+  2. [kaggle question titanic](https://www.kaggle.com/c/titanic/overview)
