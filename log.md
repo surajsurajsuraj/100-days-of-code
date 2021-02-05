@@ -279,3 +279,12 @@
 **Link(s) to work**:
   1. [kaggle question london](https://www.kaggle.com/c/data-science-london-scikit-learn/overview)
   2. [kaggle question titanic](https://www.kaggle.com/c/titanic/overview)
+  
+
+### Day 30: February 05, 2021
+
+**Today's Progress**: Python problem challenge on codingsignal
+
+**Thoughts**: got to use zip in python after a long time and nice algorithmic problem
+
+**Link(s) to work**:[isAdmissibleOverpayment python](https://app.codesignal.com/challenge/pRuhLib5DdetsY4E7?solutionId=dmGwbkEZdEERtcB47)
