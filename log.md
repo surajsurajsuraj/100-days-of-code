@@ -288,3 +288,12 @@
 **Thoughts**: got to use zip in python after a long time and nice algorithmic problem
 
 **Link(s) to work**:[isAdmissibleOverpayment python](https://app.codesignal.com/challenge/pRuhLib5DdetsY4E7?solutionId=dmGwbkEZdEERtcB47)
+
+
+### Day 31: February 06, 2021
+
+**Today's Progress**: Python problem challenge on codingsignal
+
+**Thoughts**: nice question on codingsignal been ignoring this from months I don't know why
+
+**Link(s) to work**:[chess Knight python](https://app.codesignal.com/arcade/intro/level-11/pwRLrkrNpnsbgMndb/solutions)
