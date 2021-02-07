@@ -297,3 +297,17 @@
 **Thoughts**: nice question on codingsignal been ignoring this from months I don't know why
 
 **Link(s) to work**:[chess Knight python](https://app.codesignal.com/arcade/intro/level-11/pwRLrkrNpnsbgMndb/solutions)
+
+
+### Day 32: February 07, 2021
+
+**Today's Progress**: Python problem challenge on codingsignal
+
+**Thoughts**: easy one mainly on regex
+
+**Link(s) to work**:
+  1. [delete digit](https://drive.google.com/file/d/12UgnJwQLuxhhh1u98yi4Y2arVO3P9vQk/view?usp=sharing)
+  2. [longest word](https://drive.google.com/file/d/12o02fEgm4RSEdvs-vtNsXqO7FJQ1El31/view?usp=sharing)
+  3. [valid times](https://drive.google.com/file/d/12dbj8RIS2K6egoKZ5PYZcQB7zjXRhHTP/view?usp=sharing)
+  4. [sum up Numbers](https://drive.google.com/file/d/12Xx_gewW13b1ZNtP-hwXvCj3Z0j8u1SN/view?usp=sharing)
+
