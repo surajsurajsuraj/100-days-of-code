@@ -320,3 +320,12 @@
 
 **Link(s) to work**:[new road system](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/nCMisf4ZKpDLdHevE/solutions)
 
+
+### Day 34: February 10, 2021
+
+**Today's Progress**: Python problem challenge on codingsignal on graph
+
+**Thoughts**: graph problem starting from easy one
+
+**Link(s) to work**:[Road building](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/CSzczQWdnYwmyEjvv/solutions)
+
