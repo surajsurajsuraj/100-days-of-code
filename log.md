@@ -329,3 +329,12 @@
 
 **Link(s) to work**:[Road building](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/CSzczQWdnYwmyEjvv/solutions)
 
+
+### Day 35: February 11, 2021
+
+**Today's Progress**: Python problem challenge on codingsignal on graph
+
+**Thoughts**: Complexity is little higher gonna learn about some algos to figure out better runtimes
+
+**Link(s) to work**:[Efficient Road Network](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/ty4w8WJZ4sZSBNK5Q/drafts)
+
