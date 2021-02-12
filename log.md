@@ -338,3 +338,12 @@
 
 **Link(s) to work**:[Efficient Road Network](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/ty4w8WJZ4sZSBNK5Q/drafts)
 
+
+### Day 36: February 12, 2021
+
+**Today's Progress**: Python problem challenge on codingsignal on graph
+
+**Thoughts**: learnt about nested indexing
+
+**Link(s) to work**:[Financial Crisis](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/wkhfpfiT6YynLk2qE/solutions)
+
