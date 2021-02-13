@@ -347,3 +347,12 @@
 
 **Link(s) to work**:[Financial Crisis](https://app.codesignal.com/arcade/graphs-arcade/kingdom-roads/wkhfpfiT6YynLk2qE/solutions)
 
+
+### Day 37: February 13, 2021
+
+**Today's Progress**: Python problem challenge on GeeksForGeeks on recursion
+
+**Thoughts**: a quice recap on recursion
+
+**Link(s) to work**:[Print all Possible Combination](https://www.geeksforgeeks.org/print-all-combinations-of-given-length/)
+
